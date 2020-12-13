@@ -17,7 +17,7 @@
    Проект написан в Jupyter Notebook
    
 Сцена 1:
-  ![N|Solid](/Scene1.png)
+  ![N|Solid](main_13.12.20_final/Scene1.png)
 Сцена 2:
-  ![N|Solid](/Scene2.png)
+  ![N|Solid](main_13.12.20_final/Scene2.png)
    
